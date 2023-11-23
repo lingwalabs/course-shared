@@ -1,0 +1,15 @@
+package es.cursonoruego.model.enums;
+
+public enum TaskType {
+
+	DIALOGUE,
+	LISTEN,
+	LISTEN_AND_SELECT,
+	LISTEN_AND_WRITE,
+	LISTEN_SOUNDCLOUD,
+	NOTE,
+	SPEAK,
+	VIDEO,VIDEO_AFTENPOSTEN,
+	VIDEO_AND_WRITE,
+	VIDEO_VG
+}
