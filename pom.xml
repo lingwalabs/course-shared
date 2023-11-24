@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>es.cursonoruego</groupId>
     <artifactId>cursonoruego-model</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>cursonoruego-model</name>
   
@@ -17,7 +17,7 @@
         <connection>scm:git:https://github.com/lingwalabs/course-shared.git</connection>
         <developerConnection>scm:git:https://github.com/lingwalabs/course-shared.git</developerConnection>
         <url>https://github.com/lingwalabs/course-shared</url>
-        <tag>cursonoruego-model-2.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
